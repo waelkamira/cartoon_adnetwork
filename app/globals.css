@@ -167,16 +167,16 @@ iframe {
 
 /* حاص ب ExoclickOutStreamVideo */
 [class*='_main_outstream'] {
-  opacity: 0.2;
+  /* opacity: 0.2; */
 }
 
 [class*='video-slider-container-wrapper'] {
-  opacity: 0.2;
+  /* opacity: 0.2; */
 }
 
 #ad {
-  opacity: 0.2;
+  /* opacity: 0.2; */
 }
 .ad {
-  opacity: 0.2;
+  /* opacity: 0.2; */
 }
